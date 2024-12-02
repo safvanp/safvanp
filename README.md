@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @safvanp
-- 👀 I’m interested in AI, ML, Cloud, AWS, Azure
+- 👀 I’m interested in AI, ML, Cloud, AWS and Azure
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Global AI
 - 📫 How to reach me ...
